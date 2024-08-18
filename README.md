@@ -6,6 +6,8 @@
 
 **Simply Minimalist** is a content-first blog designed with a minimalistic approach. The entire site is styled using just 10 lines of CSS, focusing on clean, readable content without unnecessary distractions. Additionally, the site includes a dark mode toggle, implemented with only 10 lines of JavaScript. This project serves as an example of how powerful and effective minimalism can be in web development.
 
+[Live Demo]()
+
 ### Features
 
 - **Astro.js**: Leverages the power of Astro.js for building static websites that are optimized for performance.
@@ -18,7 +20,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/simply-minimalist.git
+   git clone https://github.com/ori-avraham/simply-minimal-blog.git
    ```
 2. **Install dependencies**:
    ```bash
