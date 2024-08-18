@@ -13,7 +13,7 @@ const recentPosts = sortedPosts.slice(0, 3);
 <Layout title="Simply Minimal Blog">
   <main>
     <h2>Recent Posts</h2>
-    <a href="/blog">Post List</a>
+    <a href="/blog">Post List ►</a>
     <p aria-hidden="true">· · ──────── ·§· ──────── · ·</p>
     <div role="list">
       {
@@ -21,7 +21,7 @@ const recentPosts = sortedPosts.slice(0, 3);
           <div role="listitem">
             <h3>❊ {post.data.title}</h3>
             <p>{post.data.description}</p>
-            <a href={`/posts/${post.slug}`}>Read more 🕮</a>
+            <a href={`/posts/${post.slug}`}>Read more</a>
             {i !== recentPosts.length - 1 && (
               <p aria-hidden="true">· · ──────── ·§· ──────── · ·</p>
             )}
