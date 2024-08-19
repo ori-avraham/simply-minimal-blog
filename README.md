@@ -11,8 +11,8 @@
 ### Features
 
 - **Astro.js**: Leverages the power of Astro.js for building static websites that are optimized for performance.
-- **Minimal CSS**: Only 10 lines of CSS, ensuring a clean and straightforward design.
-- **Dark Mode**: A lightweight dark mode feature using just 10 lines of JavaScript.
+- **Minimal CSS**: Only few lines of CSS, ensuring a clean and straightforward design.
+- **Dark Mode**: A lightweight dark mode feature using just few lines of JavaScript.
 - **Content-Focused**: Example articles discuss minimalism in web design, programming, and other aspects of life, reflecting the ethos of the site.
 - **Responsive Design**: Despite its minimalism, the site is fully responsive and works well on all devices.
 
